@@ -1,0 +1,1002 @@
+﻿Log file open, 03/03/19 10:28:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: IdleGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.154307
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.952s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programmes/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.070s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Engine.ini]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Engine.ini]
+[2019.03.03-09.28.26:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Engine.ini]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.03-09.28.26:640][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Engine.ini]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.03-09.28.26:641][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Engine.ini]
+[2019.03.03-09.28.26:641][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Engine.ini]
+[2019.03.03-09.28.26:643][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.03-09.28.26:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.03-09.28.26:644][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:644][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.03-09.28.26:645][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.03-09.28.26:645][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.03-09.28.26:645][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.03-09.28.26:683][  0]LogHAL: Display: Platform has ~ 8 GB [8465457152 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.03-09.28.26:683][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.03-09.28.26:683][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.03-09.28.26:683][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Scalability.ini]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.03-09.28.26:684][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.03-09.28.26:685][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.03-09.28.26:685][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/Unreal_bp/IdleGame/Saved/Config/Windows/Engine.ini]
+[2019.03.03-09.28.26:685][  0]LogInit: Computer: DESKTOP-72BQC3A
+[2019.03.03-09.28.26:685][  0]LogInit: User: benja
+[2019.03.03-09.28.26:685][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.03.03-09.28.26:685][  0]LogInit: High frequency timer resolution =2.648440 MHz
+[2019.03.03-09.28.26:685][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.03-09.28.26:685][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.03-09.28.26:685][  0]LogMemory: Process Physical Memory: 102.52 MB used, 102.52 MB peak
+[2019.03.03-09.28.26:685][  0]LogMemory: Process Virtual Memory: 84.54 MB used, 84.54 MB peak
+[2019.03.03-09.28.26:685][  0]LogMemory: Physical Memory: 3205.07 MB used,  4868.22 MB free, 8073.29 MB total
+[2019.03.03-09.28.26:685][  0]LogMemory: Virtual Memory: 4628.93 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.03.03-09.28.26:707][  0]LogInit: Using OS detected language (en-GB).
+[2019.03.03-09.28.26:707][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.03-09.28.26:708][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.03.03-09.28.27:150][  0]LogStreaming: Display: Took  0.443s to InitEngineTextLocalization.
+[2019.03.03-09.28.27:150][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.03-09.28.27:193][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.03-09.28.27:193][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.03-09.28.27:476][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.03-09.28.27:476][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.03-09.28.27:506][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 920MX' (Feature Level 11_0)
+[2019.03.03-09.28.27:507][  0]LogD3D11RHI:       2020/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.03-09.28.27:520][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.03.03-09.28.27:520][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.03.03-09.28.27:522][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.03-09.28.27:522][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.03-09.28.27:522][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.03-09.28.27:551][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.03-09.28.27:551][  0]LogD3D11RHI:     GPU DeviceId: 0x134f (for the marketing name, search the web for "GPU Device Id")
+[2019.03.03-09.28.27:551][  0]LogWindows: EnumDisplayDevices:
+[2019.03.03-09.28.27:551][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.03.03-09.28.27:551][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.03.03-09.28.27:552][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.03.03-09.28.27:552][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.03.03-09.28.27:552][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 920MX
+[2019.03.03-09.28.27:552][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.03.03-09.28.27:552][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.03.03-09.28.27:552][  0]LogRHI: Texture pool is 1414 MB (70% of 2020 MB)
+[2019.03.03-09.28.27:570][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.03-09.28.27:587][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.03-09.28.27:939][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.03-09.28.27:955][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.03-09.28.27:968][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.03-09.28.27:982][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.03-09.28.28:000][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.03-09.28.28:013][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.03-09.28.28:026][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.03-09.28.28:042][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.03-09.28.28:048][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.03-09.28.28:162][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.03-09.28.28:229][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.03-09.28.28:229][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.03-09.28.28:254][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.03-09.28.28:254][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.03-09.28.28:267][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.03-09.28.28:287][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.03-09.28.28:304][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.03-09.28.28:319][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.03-09.28.28:371][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.03-09.28.28:371][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.03-09.28.28:371][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.03-09.28.28:418][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../../Unreal/Unreal_bp/IdleGame/Intermediate/Shaders/WorkingDirectory/3552/).
+[2019.03.03-09.28.28:418][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/benja/AppData/Local/Temp/UnrealShaderWorkingDir/9DCD3B164FFDA1C44917C6BB6F255785/'.
+[2019.03.03-09.28.28:420][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.03-09.28.28:420][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.03-09.28.28:420][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.03-09.28.29:104][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.03-09.28.29:174][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/benja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.03-09.28.29:174][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/benja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.03-09.28.29:174][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal/Unreal_bp/IdleGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.03-09.28.29:174][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.03-09.28.29:174][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal/Unreal_bp/IdleGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.03-09.28.29:174][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.03-09.28.29:192][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.03-09.28.29:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.03-09.28.29:192][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.03-09.28.29:205][  0]LogDerivedDataCache: Using Local data cache path C:/Users/benja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.03-09.28.29:205][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.03-09.28.29:205][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.03-09.28.29:240][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.03-09.28.29:242][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.03-09.28.29:242][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.03-09.28.29:333][  0]LogAssetRegistry: FAssetRegistry took 0.0329 seconds to start up
+[2019.03.03-09.28.29:735][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.03-09.28.29:903][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.03-09.28.29:906][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.03-09.28.29:906][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.03-09.28.29:906][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.03-09.28.29:906][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.03-09.28.29:920][  0]LogNetVersion: IdleGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2704201329)
+[2019.03.03-09.28.30:635][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.217679 seconds
+[2019.03.03-09.28.30:646][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.03-09.28.30:646][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.03-09.28.30:646][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.03-09.28.31:545][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.03-09.28.31:559][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.03-09.28.32:338][  0]SourceControl: Source control is disabled
+[2019.03.03-09.28.32:338][  0]SourceControl: Source control is disabled
+[2019.03.03-09.28.32:339][  0]SourceControl: Source control is disabled
+[2019.03.03-09.28.32:340][  0]SourceControl: Source control is disabled
+[2019.03.03-09.28.32:505][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.03-09.28.32:560][  0]LogOcInput: OculusInput pre-init called
+[2019.03.03-09.28.32:705][  0]LogEngine: Initializing Engine...
+[2019.03.03-09.28.32:706][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.03-09.28.32:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.03-09.28.32:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.03-09.28.32:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.03-09.28.32:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.03-09.28.33:004][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.03-09.28.33:020][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.03-09.28.33:033][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-09.28.33:309][  0]LogInit: FAudioDevice initialized.
+[2019.03.03-09.28.33:309][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.03-09.28.33:468][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/benja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.03-09.28.33:486][  0]LogInit: Texture streaming: Enabled
+[2019.03.03-09.28.33:500][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.03-09.28.33:513][  0]LogInit: Transaction tracking system initialized
+[2019.03.03-09.28.33:534][  0]BlueprintLog: New page: Editor Load
+[2019.03.03-09.28.33:598][  0]LocalizationService: Localization service is disabled
+[2019.03.03-09.28.33:873][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.03.03-09.28.33:874][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2019.03.03-09.28.33:874][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.03.03-09.28.34:169][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_bp/IdleGame/Content/' took 0.02s
+[2019.03.03-09.28.34:169][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.03-09.28.34:169][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.03-09.28.34:169][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.03-09.28.34:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.03-09.28.34:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.03-09.28.34:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.03-09.28.34:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.03-09.28.34:291][  0]SourceControl: Source control is disabled
+[2019.03.03-09.28.34:291][  0]Cmd: MAP LOAD FILE="../../../../../Unreal/Unreal_bp/IdleGame/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.03-09.28.34:291][  0]LightingResults: New page: Lighting Build
+[2019.03.03-09.28.34:293][  0]MapCheck: New page: Map Check
+[2019.03.03-09.28.34:293][  0]LightingResults: New page: Lighting Build
+[2019.03.03-09.28.34:672][  0]LogAIModule: Creating AISystem for world Main
+[2019.03.03-09.28.34:674][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.03-09.28.34:700][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.03-09.28.34:700][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.03.03-09.28.34:700][  0]LogFileHelpers: Loading map 'Main' took 0.409
+[2019.03.03-09.28.34:973][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-09.28.34:982][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-09.28.34:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-09.28.34:998][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-09.28.35:026][  0]LogCollectionManager: Loaded 0 collections in 0.000881 seconds
+[2019.03.03-09.28.35:055][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_bp/IdleGame/Saved/Collections/' took 0.01s
+[2019.03.03-09.28.35:055][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_bp/IdleGame/Content/Developers/benja/Collections/' took 0.00s
+[2019.03.03-09.28.35:055][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Unreal_bp/IdleGame/Content/Collections/' took 0.01s
+[2019.03.03-09.28.35:055][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.03-09.28.35:065][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2651 classes and 620 folders.
+[2019.03.03-09.28.35:071][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.03-09.28.35:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:251][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:293][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:326][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:367][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:532][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:539][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:572][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.35:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.03-09.28.37:377][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.03-09.28.37:546][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.03-09.28.37:608][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.03-09.28.37:614][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.03-09.28.37:650][  0]LogSlate: Took 0.022357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.03-09.28.37:938][  0]LogRenderer: Reallocating scene render targets to support 1068x504 Format 10 NumSamples 1 (Frame:1).
+[2019.03.03-09.28.38:133][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.03-09.28.38:133][  0]LogLoad: (Engine Initialization) Total time: 17.33 seconds
+[2019.03.03-09.28.38:133][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.03-09.28.38:152][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.03-09.28.38:201][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.03-09.28.38:242][  0]LogSlate: Took 0.025187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.03-09.28.38:382][  2]LogAssetRegistry: Asset discovery search completed in 9.0710 seconds
+[2019.03.03-09.28.38:384][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.03-09.28.38:384][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2019.03.03-09.28.39:176][ 42]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.03-09.29.40:378][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.03-09.29.44:579][954]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/Main.Main
+[2019.03.03-09.29.45:602][954]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.03.03-09.29.46:844][954]LogSlate: Took 0.023738 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.03-09.29.48:234][ 26]LogSlate: Window 'Main' being destroyed
+[2019.03.03-09.29.49:728][113]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/Shooter.Shooter
+[2019.03.03-09.30.01:378][787]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.03-09.30.01:402][787]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.03.03-09.30.01:402][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.03-09.30.01:403][787]PIE: New page: PIE session: Main (3 Mar 2019 11:30:01)
+[2019.03.03-09.30.01:415][787]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2019.03.03-09.30.01:418][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002592s)
+[2019.03.03-09.30.01:418][787]LogAIModule: Creating AISystem for world Main
+[2019.03.03-09.30.01:419][787]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2019.03.03-09.30.01:419][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003777s)
+[2019.03.03-09.30.01:459][787]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-09.30.01:518][787]LogInit: FAudioDevice initialized.
+[2019.03.03-09.30.01:524][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-09.30.01:572][787]LogLoad: Game class is 'GameModeBase'
+[2019.03.03-09.30.01:573][787]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2019.03.03-10.30.01
+[2019.03.03-09.30.01:574][787]LogWorld: Bringing up level for play took: 0.000909
+[2019.03.03-09.30.01:586][787]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.03-09.30.01:692][787]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.03.03-09.30.01:700][787]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.557
+[2019.03.03-09.30.01:700][787]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.03.03-09.30.01:742][787]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.03.03-09.30.26:765][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.03.03-09.30.26:768][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-09.30.26:793][264]LogSlate: Window 'IdleGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.03-09.30.26:827][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.03-09.30.26:827][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.03.03-09.30.26:899][265]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.03.03-09.30.32:274][562]LogSlate: Took 0.015118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.03-09.31.59:626][739]BlueprintLog: New page: Compile Main
+[2019.03.03-09.32.00:345][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/Main" FILE="../../../../../Unreal/Unreal_bp/IdleGame/Content/Blueprints/Widgets/Main.uasset" SILENT=true
+[2019.03.03-09.32.00:879][746]LogSavePackage: Moving '../../../../../Unreal/Unreal_bp/IdleGame/Saved/MainE4AB34D947F7DE4BD08E3FBCF487B20E.tmp' to '../../../../../Unreal/Unreal_bp/IdleGame/Content/Blueprints/Widgets/Main.uasset'
+[2019.03.03-09.32.01:964][810]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.03-09.32.01:991][810]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.03.03-09.32.01:991][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.03-09.32.01:991][810]PIE: New page: PIE session: Main (3 Mar 2019 11:32:01)
+[2019.03.03-09.32.01:991][810]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2019.03.03-09.32.01:993][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002218s)
+[2019.03.03-09.32.01:994][810]LogAIModule: Creating AISystem for world Main
+[2019.03.03-09.32.01:994][810]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2019.03.03-09.32.01:994][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002983s)
+[2019.03.03-09.32.02:029][810]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.03-09.32.02:082][810]LogInit: FAudioDevice initialized.
+[2019.03.03-09.32.02:087][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.03-09.32.02:135][810]LogLoad: Game class is 'GameModeBase'
+[2019.03.03-09.32.02:135][810]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2019.03.03-10.32.02
+[2019.03.03-09.32.02:136][810]LogWorld: Bringing up level for play took: 0.000582
+[2019.03.03-09.32.02:148][810]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.03-09.32.02:171][810]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.028
+[2019.03.03-09.32.02:171][810]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.03.03-09.32.03:730][890]LogSlate: Window 'IdleGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.03-09.32.03:738][890]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.03.03-09.32.03:772][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.03-09.32.03:773][890]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2019.03.03-09.32.03:835][891]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.03.03-09.37.28:978][374]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Main.Main:PersistentLevel.Main
+[2019.03.03-09.37.29:636][374]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:637][374]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:638][374]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:693][375]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:701][375]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:729][376]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:733][376]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:745][377]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:750][377]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:762][378]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:765][378]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:778][379]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:782][379]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:795][380]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:799][380]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:812][381]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:816][381]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:829][382]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:832][382]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:845][383]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:849][383]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:862][384]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:866][384]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:879][385]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:883][385]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:895][386]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:899][386]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:912][387]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:916][387]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:929][388]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:933][388]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:946][389]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:950][389]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:962][390]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:966][390]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:979][391]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:983][391]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.29:996][392]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:000][392]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:012][393]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:016][393]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:029][394]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:033][394]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:046][395]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:050][395]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:063][396]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:067][396]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:078][397]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:083][397]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:095][398]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:099][398]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:112][399]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:116][399]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:129][400]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:132][400]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:145][401]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:149][401]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:162][402]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:166][402]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:179][403]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:182][403]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:195][404]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:199][404]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:212][405]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:216][405]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:229][406]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:232][406]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:246][407]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:250][407]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:263][408]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:266][408]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:279][409]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:282][409]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:295][410]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:300][410]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:312][411]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:316][411]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:329][412]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:333][412]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:345][413]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:350][413]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:362][414]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:366][414]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:382][415]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:385][415]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:397][416]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:400][416]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:413][417]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:417][417]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:431][418]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:435][418]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:446][419]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:450][419]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:464][420]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:468][420]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:480][421]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:484][421]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:496][422]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:500][422]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:512][423]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:516][423]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:529][424]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:533][424]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:546][425]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:550][425]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:562][426]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:566][426]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:579][427]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:583][427]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:596][428]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:600][428]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:613][429]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:621][429]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:630][430]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:638][430]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:647][431]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:651][431]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:663][432]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:671][432]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:679][433]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:682][433]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:696][434]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:699][434]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:713][435]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:716][435]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:730][436]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:732][436]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:747][437]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:749][437]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:764][438]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:768][438]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:779][439]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:781][439]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:796][440]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:798][440]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:815][441]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:819][441]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:829][442]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:833][442]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:847][443]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:849][443]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:864][444]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:867][444]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:880][445]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:883][445]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:898][446]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:900][446]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:914][447]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:916][447]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:931][448]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:933][448]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:947][449]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:949][449]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:964][450]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:966][450]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:981][451]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:983][451]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.30:997][452]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:000][452]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:014][453]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:016][453]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:030][454]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:032][454]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:046][455]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:049][455]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:065][456]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:067][456]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:082][457]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:086][457]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:096][458]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:099][458]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:115][459]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:118][459]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:129][460]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:133][460]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:146][461]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:149][461]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:163][462]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:165][462]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:180][463]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:183][463]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:197][464]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:199][464]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:213][465]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:215][465]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:230][466]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:231][466]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:247][467]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:251][467]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:262][468]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:266][468]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:281][469]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:283][469]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:297][470]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:300][470]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:314][471]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:317][471]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:330][472]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:333][472]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:347][473]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:349][473]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:364][474]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:366][474]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:380][475]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:383][475]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:397][476]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:400][476]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:414][477]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:416][477]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:432][478]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:438][478]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:447][479]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:453][479]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:464][480]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:469][480]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:481][481]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:485][481]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:498][482]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:502][482]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:515][483]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:519][483]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:529][484]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:533][484]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:546][485]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:549][485]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:563][486]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:566][486]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:580][487]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:586][487]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:596][488]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:602][488]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:612][489]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:616][489]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:629][490]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:636][490]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:645][491]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:649][491]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:662][492]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:668][492]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:679][493]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:683][493]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:696][494]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:700][494]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:713][495]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:717][495]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:729][496]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:734][496]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:746][497]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:750][497]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:763][498]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:768][498]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:779][499]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:783][499]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:800][500]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:803][500]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:814][501]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:819][501]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:834][502]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:838][502]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:848][503]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:853][503]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:869][504]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:871][504]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:880][505]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:883][505]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:898][506]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:902][506]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:912][507]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:916][507]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:929][508]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:933][508]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:945][509]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:950][509]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:963][510]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:968][510]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:979][511]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:984][511]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.31:997][512]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:003][512]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:013][513]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:017][513]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:030][514]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:035][514]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:046][515]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:051][515]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:062][516]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:068][516]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:079][517]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:083][517]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:096][518]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:102][518]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:112][519]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:118][519]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:129][520]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:134][520]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:145][521]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:151][521]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:162][522]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:168][522]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:179][523]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:184][523]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:196][524]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:202][524]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:213][525]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:217][525]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:229][526]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:235][526]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:245][527]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:249][527]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:264][528]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:268][528]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:279][529]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:284][529]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:295][530]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:301][530]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:312][531]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:318][531]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:333][532]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:337][532]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:348][533]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:352][533]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:366][534]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:371][534]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:381][535]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:385][535]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:396][536]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:401][536]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:416][537]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:420][537]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:430][538]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:434][538]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:448][539]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:452][539]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/Maps/Main.Main_C or WidgetBlueprintGeneratedClass /Game/Blueprints/Widgets/Main.Main_C
+[2019.03.03-09.37.32:462][540]LogUObjectArray: Warning: Other object in slot
+[2019.03.03-09.37.32:462][540]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.03.03-09.37.34:564][540]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.102 s
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: 
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: Stack: 
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc60408304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc604181ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc6218bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc577f769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc577b0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc6d917c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc6db64393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc6d972d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc6d948a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc6d93b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc7454dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc74540de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc745501eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc7453ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffca64f6d41 USER32.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffca64f6713 USER32.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffc74551746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ff7dfb35546 UE4Editor.exe!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ff7dfb4596c UE4Editor.exe!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ff7dfb459ea UE4Editor.exe!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ff7dfb548da UE4Editor.exe!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ff7dfb5659a UE4Editor.exe!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffca6433dc4 KERNEL32.DLL!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: [Callstack] 0x00007ffca8b53691 ntdll.dll!UnknownFunction []
+[2019.03.03-09.37.34:564][540]LogOutputDevice: Error: 
+[2019.03.03-09.37.34:573][540]LogStats:                SubmitErrorReport -  0.000 s
